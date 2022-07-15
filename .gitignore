@@ -1,0 +1,6 @@
+.env
+node_modules
+waste/waste2.hbs
+waste/
+*.ejs
+style.css
